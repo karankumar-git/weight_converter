@@ -10,8 +10,3 @@ document.getElementById("inputkg").addEventListener("input",function(e){
 if(kg==0){
     document.getElementById("output").style.visibility="hidden";
 }
-
-// let main = document.getElementsByTagName("h4");
-// let  createEle = document.createElement("p");
-// createEle.innerText="this is a created line.";
-// main[0].appendChild(createEle);
